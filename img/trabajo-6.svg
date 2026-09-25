@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f5f2ec"/><g fill="#8caf45">
+<rect x="120" y="130" width="280" height="280"/><rect x="460" y="130" width="280" height="280"/><rect x="800" y="130" width="280" height="280"/></g>
+<g fill="#6f3fb3"><rect x="120" y="450" width="280" height="220"/><rect x="460" y="450" width="280" height="220"/><rect x="800" y="450" width="280" height="220"/></g>
+<text x="120" y="95" fill="#242422" font-family="Arial" font-size="34">SISTEMA GRÁFICO</text></svg>
